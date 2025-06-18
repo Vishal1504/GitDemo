@@ -16,4 +16,8 @@ public class AppTest {
     public void shouldAnswerWithTrue() {
         assertTrue(true);
     }
+    
+    public void print() {
+    	System.out.println("This is git demo");
+    }
 }
