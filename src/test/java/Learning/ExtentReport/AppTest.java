@@ -20,4 +20,11 @@ public class AppTest {
     public void print() {
     	System.out.println("This is git demo");
     }
+    
+    public void prinft() {
+    	System.out.println("This is git demo");
+    }
+    
+    
+    
 }
